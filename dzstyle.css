@@ -1,0 +1,17 @@
+.text-box h3:first-of-type {
+  color: pink;
+}
+
+
+.text-box div > p {
+  color: red;
+}
+
+.text-box h3 + p + p + div + div + h3 + p {
+  color: green;
+}
+
+
+.text-box p.yellow {
+  color: yellow;
+}
